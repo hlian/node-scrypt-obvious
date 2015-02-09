@@ -1,7 +1,7 @@
 { "name": "node-scrypt-obvious"
 , "version": "1.0.0"
 , "description": "The obvious implementation of node-scrypt."
-, "main": "index.js"
+, "main": "lib"
 , "scripts": { "test": "npm install && node test/index.js" }
 , "repository": { "type": "git"
                 , "url": "https://github.com/hlian/node-scrypt-obvious" }
